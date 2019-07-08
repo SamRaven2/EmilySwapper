@@ -1,0 +1,13 @@
+{
+   "Name": "Emily Swapper",
+   "Author": "SamRaven2",
+   "Version": "1.0.0",
+   "Description": "Combines the Emily Sprite and Potrait from two mods. 'Emily portrait more like sprite' by vigo1308 & 'Slightly Cuter Character Sprites' by Poltergeister",
+   "UniqueID": "SamRaven2.EmilySwapper",
+   "MinimumApiVersion": "2.11",
+   "UpdateKeys": [],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher", // the ID of required mod
+      "MinimumVersion": "1.9" // optional
+   }
+}

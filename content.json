@@ -1,0 +1,16 @@
+{
+    "Format": "1.9",
+	
+    "Changes": [
+        {
+            "Action": "Load",
+            "Target": "Portraits/Emily",
+            "FromFile": "EmilyP.png"
+        },
+		{
+            "Action": "Load",
+            "Target": "Characters/Emily",
+            "FromFile": "EmilyS.png"
+        }
+    ]
+}
